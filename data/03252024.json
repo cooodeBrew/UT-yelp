@@ -1,5 +1,5 @@
 {
-    "date": "03222024",
+    "date": "03252024",
     "Breakfast": {
         "-- Breakfast to Order --": {
             "Diced Ham": [
@@ -45,7 +45,7 @@
                 "Milk",
                 "Veggie"
             ],
-            "Banana Bread": [
+            "Cinnamon Roll": [
                 "Milk",
                 "Eggs",
                 "Wheat",
@@ -57,31 +57,37 @@
                 "Soy",
                 "Vegan"
             ],
-            "Bacon Apple Smoked": [
-                "Pork"
-            ],
-            "Beans de Charro": [
-                "Vegan"
-            ],
-            "Hash Brown Patty": [
+            "French Toast": [
+                "Milk",
+                "Eggs",
+                "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Housemade Buttermilk Pancakes": [
-                "Milk",
-                "Eggs",
-                "Veggie",
-                "Wheat"
+            "Lentil and Mushroom Ragu": [
+                "Vegan"
             ],
             "Pancake Syrup": [
                 "Vegan"
             ],
+            "Peppered Cream Gravy": [
+                "Milk",
+                "Wheat",
+                "Veggie"
+            ],
             "Roasted Italian Vegetables": [
                 "Vegan"
+            ],
+            "Sausage Patty": [
+                "Pork"
             ],
             "Southern Buttermilk Biscuit": [
                 "Milk",
                 "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Tater Tots": [
                 "Soy",
                 "Veggie"
             ],
@@ -98,15 +104,17 @@
             "Fresh Orange": [
                 "Vegan"
             ],
-            "Granny Smith Apple": [
+            "Gala Apple": [
                 "Vegan"
             ],
-            "Coconut Sticky Rice": [
-                "Tree_Nuts",
-                "Vegan"
+            "Beef Congee": [
+                "Beef",
+                "Fish",
+                "Soy",
+                "Sesame"
             ],
-            "Cranberry, Orange  Porridge": [
-                "Soy"
+            "Coconut Sticky Rice with Pineapple": [
+                "Tree_Nuts"
             ],
             "Oatmeal": [
                 "Vegan",
@@ -135,10 +143,10 @@
                 "Milk",
                 "Veggie"
             ],
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -150,18 +158,13 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         },
         "-- Breakfast Bakery --": {
-            "Banana Bread": [
+            "Cinnamon Roll": [
                 "Milk",
                 "Eggs",
                 "Wheat",
@@ -173,27 +176,29 @@
                 "Soy",
                 "Vegan"
             ],
-            "Bacon Apple Smoked": [
-                "Pork"
-            ],
-            "Beans de Charro": [
-                "Vegan"
-            ],
-            "Hash Brown Patty": [
+            "French Toast": [
+                "Milk",
+                "Eggs",
+                "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Housemade Buttermilk Pancakes": [
-                "Milk",
-                "Eggs",
-                "Veggie",
-                "Wheat"
+            "Lentil and Mushroom Ragu": [
+                "Vegan"
             ],
             "Pancake Syrup": [
                 "Vegan"
             ],
+            "Peppered Cream Gravy": [
+                "Milk",
+                "Wheat",
+                "Veggie"
+            ],
             "Roasted Italian Vegetables": [
                 "Vegan"
+            ],
+            "Sausage Patty": [
+                "Pork"
             ],
             "Scrambled Eggs": [
                 "Eggs",
@@ -202,6 +207,10 @@
             "Southern Buttermilk Biscuit": [
                 "Milk",
                 "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Tater Tots": [
                 "Soy",
                 "Veggie"
             ],
@@ -218,15 +227,17 @@
             "Fresh Orange": [
                 "Vegan"
             ],
-            "Granny Smith Apple": [
+            "Gala Apple": [
                 "Vegan"
             ],
-            "Coconut Sticky Rice": [
-                "Tree_Nuts",
-                "Vegan"
+            "Beef Congee": [
+                "Beef",
+                "Fish",
+                "Soy",
+                "Sesame"
             ],
-            "Cranberry, Orange  Porridge": [
-                "Soy"
+            "Coconut Sticky Rice with Pineapple": [
+                "Tree_Nuts"
             ],
             "Oatmeal": [
                 "Vegan",
@@ -255,10 +266,10 @@
                 "Milk",
                 "Veggie"
             ],
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -270,38 +281,35 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         },
         "-- Breakfast Offerings --": {
-            "Bacon Apple Smoked": [
-                "Pork"
-            ],
-            "Beans de Charro": [
-                "Vegan"
-            ],
-            "Hash Brown Patty": [
+            "French Toast": [
+                "Milk",
+                "Eggs",
+                "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Housemade Buttermilk Pancakes": [
-                "Milk",
-                "Eggs",
-                "Veggie",
-                "Wheat"
+            "Lentil and Mushroom Ragu": [
+                "Vegan"
             ],
             "Pancake Syrup": [
                 "Vegan"
             ],
+            "Peppered Cream Gravy": [
+                "Milk",
+                "Wheat",
+                "Veggie"
+            ],
             "Roasted Italian Vegetables": [
                 "Vegan"
+            ],
+            "Sausage Patty": [
+                "Pork"
             ],
             "Scrambled Eggs": [
                 "Eggs",
@@ -310,6 +318,10 @@
             "Southern Buttermilk Biscuit": [
                 "Milk",
                 "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Tater Tots": [
                 "Soy",
                 "Veggie"
             ],
@@ -326,15 +338,17 @@
             "Fresh Orange": [
                 "Vegan"
             ],
-            "Granny Smith Apple": [
+            "Gala Apple": [
                 "Vegan"
             ],
-            "Coconut Sticky Rice": [
-                "Tree_Nuts",
-                "Vegan"
+            "Beef Congee": [
+                "Beef",
+                "Fish",
+                "Soy",
+                "Sesame"
             ],
-            "Cranberry, Orange  Porridge": [
-                "Soy"
+            "Coconut Sticky Rice with Pineapple": [
+                "Tree_Nuts"
             ],
             "Oatmeal": [
                 "Vegan",
@@ -363,10 +377,10 @@
                 "Milk",
                 "Veggie"
             ],
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -378,15 +392,10 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         },
         "-- Fresh Fruit --": {
             "Banana": [
@@ -395,15 +404,17 @@
             "Fresh Orange": [
                 "Vegan"
             ],
-            "Granny Smith Apple": [
+            "Gala Apple": [
                 "Vegan"
             ],
-            "Coconut Sticky Rice": [
-                "Tree_Nuts",
-                "Vegan"
+            "Beef Congee": [
+                "Beef",
+                "Fish",
+                "Soy",
+                "Sesame"
             ],
-            "Cranberry, Orange  Porridge": [
-                "Soy"
+            "Coconut Sticky Rice with Pineapple": [
+                "Tree_Nuts"
             ],
             "Oatmeal": [
                 "Vegan",
@@ -432,10 +443,10 @@
                 "Milk",
                 "Veggie"
             ],
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -447,23 +458,20 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         },
         "-- Soups --": {
-            "Coconut Sticky Rice": [
-                "Tree_Nuts",
-                "Vegan"
+            "Beef Congee": [
+                "Beef",
+                "Fish",
+                "Soy",
+                "Sesame"
             ],
-            "Cranberry, Orange  Porridge": [
-                "Soy"
+            "Coconut Sticky Rice with Pineapple": [
+                "Tree_Nuts"
             ],
             "Oatmeal": [
                 "Vegan",
@@ -492,10 +500,10 @@
                 "Milk",
                 "Veggie"
             ],
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -507,15 +515,10 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         },
         "-- Salad Bar Standard Toppings --": {
             "Blueberries": [
@@ -541,10 +544,10 @@
                 "Milk",
                 "Veggie"
             ],
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -556,21 +559,16 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         },
         "-- FAST Line --": {
-            "Bacon Slices": [
-                "Pork"
-            ],
             "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Cinnamon Raisin French Toast w/ Apple Compote": [
                 "Vegan"
             ],
             "Maple Syrup": [
@@ -582,18 +580,323 @@
             "Powdered Sugar": [
                 "Vegan"
             ],
-            "Roasted Maple Sweet Potatoes": [
+            "Shredded Hash Browns": [
                 "Vegan"
             ],
-            "S'mores French Toast": [
-                "Pork"
-            ],
-            "Seasonal Fresh Fruit": [
-                "Vegan"
-            ]
+            "Turkey Sausage Patty": []
         }
     },
     "Lunch": {
+        "-- Breakfast Offerings --": {
+            "Bacon Apple Smoked": [
+                "Pork"
+            ],
+            "Egg & Cheese English Muffin Sandwich": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Baked Potato": [
+                "Vegan"
+            ],
+            "Baked Sweet Potato": [
+                "Vegan"
+            ],
+            "Crispy Chopped Bacon Filling": [
+                "Pork"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Shredded Cheddar Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Green Onion": [
+                "Vegan"
+            ],
+            "Sour Cream": [
+                "Milk",
+                "Veggie"
+            ],
+            "Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Beef Noodle Soup": [
+                "Beef",
+                "Eggs",
+                "Wheat"
+            ],
+            "Greek Village Bean Soup": [
+                "Vegan"
+            ],
+            "Herbed Whipped Margarine": [
+                "Vegan",
+                "Soy",
+                "Vegan"
+            ],
+            "Jalapeno Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sweet Yeast Roll": [
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Fresh Spinach": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Edamame": [
+                "Soy",
+                "Vegan"
+            ],
+            "Fresh Red Grapes": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Lowfat Cottage Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Green Pepper": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Tofu": [
+                "Soy",
+                "Vegan"
+            ],
+            "Chocolate Chip Cookie": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Snickerdoodle Bar": [
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Bratwurst Sandwich": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Pork"
+            ],
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Fresh Sauteed Spinach": [
+                "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
+            ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
+            "Antipasto": [
+                "Beef",
+                "Milk",
+                "Pork"
+            ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
+                "Vegan"
+            ],
+            "Carrot Sticks": [
+                "Vegan"
+            ],
+            "Celery Sticks": [
+                "Vegan"
+            ],
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
+            ],
+            "Roasted Italian Vegetables": [
+                "Vegan"
+            ],
+            "Tahini": [
+                "Sesame",
+                "Vegan"
+            ],
+            "Teardrop Flat Bread": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Capri Vegetables": [
+                "Vegan"
+            ],
+            "Grilled Italian Vegetables": [
+                "Vegan"
+            ],
+            "Lentil and Mushroom Ragu": [
+                "Vegan"
+            ],
+            "Soft Polenta": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Grilled Chicken Sandwich": [
+                "Wheat",
+                "Soy"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Baked Sweet Potato Tater Tots": [
+                "Vegan"
+            ],
+            "Fresh Carrots, Celery & Cucumber": [
+                "Vegan"
+            ],
+            "Greek Turkey Burger": [],
+            "Hummus": [
+                "Vegan"
+            ]
+        },
         "-- Baked Potato Bar --": {
             "Baked Potato": [
                 "Vegan"
@@ -622,31 +925,28 @@
                 "Milk",
                 "Veggie"
             ],
-            "Assorted Dinner Rolls": [
-                "Wheat",
-                "Vegan",
-                "Milk",
+            "Beef Noodle Soup": [
+                "Beef",
                 "Eggs",
-                "Sesame"
+                "Wheat"
+            ],
+            "Greek Village Bean Soup": [
+                "Vegan"
             ],
             "Herbed Whipped Margarine": [
                 "Vegan",
                 "Soy",
                 "Vegan"
             ],
-            "New England Clam Chowder": [
-                "Fish",
-                "Milk",
-                "Pork",
-                "Shellfish",
-                "Soy"
-            ],
-            "Strawberry Whipped Butter": [
+            "Jalapeno Whipped Butter": [
                 "Milk",
                 "Veggie"
             ],
-            "Vegetable & Bean Chili": [
-                "Vegan"
+            "Sweet Yeast Roll": [
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
             ],
             "Cherry Tomatoes": [
                 "Vegan"
@@ -669,20 +969,24 @@
             "Sliced Red Onion": [
                 "Vegan"
             ],
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -710,15 +1014,6 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
-                "Wheat",
-                "Soy",
-                "Vegan"
-            ],
             "Chocolate Chip Cookie": [
                 "Milk",
                 "Eggs",
@@ -726,59 +1021,32 @@
                 "Soy",
                 "Veggie"
             ],
-            "Oatmeal Raisin Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Tree_Nuts",
-                "Soy"
-            ],
-            "Rainbow Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Soy",
-                "Veggie"
-            ],
-            "Sugar Cookie Bar": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
-            ],
-            "Fresh Collard Greens with Bacon": [
                 "Pork"
             ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Sauerkraut": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Fresh Sauteed Spinach": [
                 "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -787,25 +1055,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -814,22 +1094,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -841,29 +1118,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -871,17 +1135,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -894,6 +1157,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -913,58 +1183,43 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- Soups --": {
-            "Assorted Dinner Rolls": [
-                "Wheat",
-                "Vegan",
-                "Milk",
+            "Beef Noodle Soup": [
+                "Beef",
                 "Eggs",
-                "Sesame"
+                "Wheat"
+            ],
+            "Greek Village Bean Soup": [
+                "Vegan"
             ],
             "Herbed Whipped Margarine": [
                 "Vegan",
                 "Soy",
                 "Vegan"
             ],
-            "New England Clam Chowder": [
-                "Fish",
-                "Milk",
-                "Pork",
-                "Shellfish",
-                "Soy"
-            ],
-            "Strawberry Whipped Butter": [
+            "Jalapeno Whipped Butter": [
                 "Milk",
                 "Veggie"
             ],
-            "Vegetable & Bean Chili": [
-                "Vegan"
+            "Sweet Yeast Roll": [
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
             ],
             "Whipped Butter": [
                 "Milk",
@@ -991,20 +1246,24 @@
             "Sliced Red Onion": [
                 "Vegan"
             ],
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -1036,15 +1295,6 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
-                "Wheat",
-                "Soy",
-                "Vegan"
-            ],
             "Chocolate Chip Cookie": [
                 "Milk",
                 "Eggs",
@@ -1052,59 +1302,32 @@
                 "Soy",
                 "Veggie"
             ],
-            "Oatmeal Raisin Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Tree_Nuts",
-                "Soy"
-            ],
-            "Rainbow Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Soy",
-                "Veggie"
-            ],
-            "Sugar Cookie Bar": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
-            ],
-            "Fresh Collard Greens with Bacon": [
                 "Pork"
             ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Sauerkraut": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Fresh Sauteed Spinach": [
                 "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -1113,25 +1336,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -1140,22 +1375,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -1167,29 +1399,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -1197,17 +1416,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -1220,6 +1438,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -1239,29 +1464,17 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
@@ -1287,20 +1500,24 @@
             "Sliced Red Onion": [
                 "Vegan"
             ],
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -1332,15 +1549,6 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
-                "Wheat",
-                "Soy",
-                "Vegan"
-            ],
             "Chocolate Chip Cookie": [
                 "Milk",
                 "Eggs",
@@ -1348,59 +1556,32 @@
                 "Soy",
                 "Veggie"
             ],
-            "Oatmeal Raisin Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Tree_Nuts",
-                "Soy"
-            ],
-            "Rainbow Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Soy",
-                "Veggie"
-            ],
-            "Sugar Cookie Bar": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
-            ],
-            "Fresh Collard Greens with Bacon": [
                 "Pork"
             ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Sauerkraut": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Fresh Sauteed Spinach": [
                 "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -1409,25 +1590,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -1436,22 +1629,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -1463,29 +1653,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -1493,17 +1670,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -1516,6 +1692,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -1535,47 +1718,39 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- Salad Bar Standard Toppings --": {
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -1607,15 +1782,6 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
-                "Wheat",
-                "Soy",
-                "Vegan"
-            ],
             "Chocolate Chip Cookie": [
                 "Milk",
                 "Eggs",
@@ -1623,59 +1789,32 @@
                 "Soy",
                 "Veggie"
             ],
-            "Oatmeal Raisin Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Tree_Nuts",
-                "Soy"
-            ],
-            "Rainbow Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Soy",
-                "Veggie"
-            ],
-            "Sugar Cookie Bar": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
-            ],
-            "Fresh Collard Greens with Bacon": [
                 "Pork"
             ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Sauerkraut": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Fresh Sauteed Spinach": [
                 "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -1684,25 +1823,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -1711,22 +1862,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -1738,29 +1886,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -1768,17 +1903,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -1791,6 +1925,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -1810,38 +1951,21 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- Sweet Sensations --": {
-            "Chai Blondie": [
-                "Wheat",
-                "Soy",
-                "Vegan"
-            ],
             "Chocolate Chip Cookie": [
                 "Milk",
                 "Eggs",
@@ -1849,59 +1973,32 @@
                 "Soy",
                 "Veggie"
             ],
-            "Oatmeal Raisin Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Tree_Nuts",
-                "Soy"
-            ],
-            "Rainbow Cookies": [
-                "Milk",
-                "Eggs",
-                "Wheat",
-                "Soy",
-                "Veggie"
-            ],
-            "Sugar Cookie Bar": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
-            ],
-            "Fresh Collard Greens with Bacon": [
                 "Pork"
             ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Sauerkraut": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Fresh Sauteed Spinach": [
                 "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -1910,25 +2007,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -1937,26 +2046,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -1968,29 +2074,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -1998,17 +2091,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2021,6 +2113,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -2040,67 +2139,42 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- GRILL SPECIAL --": {
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
-            ],
-            "Fresh Collard Greens with Bacon": [
                 "Pork"
             ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Sauerkraut": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Fresh Sauteed Spinach": [
                 "Vegan"
+            ],
+            "Rice Pilaf": [
+                "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -2109,25 +2183,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -2136,26 +2222,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -2167,29 +2250,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -2197,17 +2267,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2220,6 +2289,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -2239,60 +2315,33 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- Comfort Line --": {
-            "Fresh Collard Greens with Bacon": [
-                "Pork"
-            ],
-            "Fried Breaded Catfish": [
-                "Milk",
-                "Eggs",
-                "Fish",
-                "Soy",
-                "Wheat"
-            ],
-            "Hushpuppies": [
-                "Milk",
-                "Soy",
-                "Veggie",
-                "Wheat"
-            ],
-            "Southern Beans and Rice": [
-                "Soy",
+            "Fresh Sauteed Spinach": [
                 "Vegan"
             ],
-            "Tartar Sauce": [
-                "Eggs",
-                "Soy",
-                "Veggie"
-            ],
-            "Avocado Tomatillo Salsa": [
+            "Rice Pilaf": [
                 "Vegan"
+            ],
+            "Seasonal Grilled Vegetables": [
+                "Vegan"
+            ],
+            "Shrimp Etouffee": [
+                "Shellfish",
+                "Wheat"
             ],
             "Chile Con Queso": [
                 "Milk",
@@ -2301,25 +2350,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -2328,26 +2389,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -2359,29 +2417,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -2389,17 +2434,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2412,6 +2456,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -2431,36 +2482,21 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- TexMex Favorites --": {
-            "Avocado Tomatillo Salsa": [
-                "Vegan"
-            ],
             "Chile Con Queso": [
                 "Milk",
                 "Eggs",
@@ -2468,25 +2504,37 @@
                 "Soy",
                 "Veggie"
             ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
             "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
                 "Vegan"
             ],
             "Sliced Jalapeno Pepper": [
                 "Vegan"
             ],
-            "Southwest Black Beans": [
-                "Vegan"
-            ],
             "Tortilla Chips": [
                 "Vegan"
             ],
-            "Turkey Taco Filling": [],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -2495,26 +2543,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -2526,29 +2571,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -2556,17 +2588,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2579,6 +2610,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -2598,29 +2636,17 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
@@ -2630,7 +2656,14 @@
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -2639,26 +2672,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -2670,29 +2700,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
-            ],
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -2700,17 +2717,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2723,6 +2739,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -2742,53 +2765,31 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- Vegan Line --": {
-            "6\" Flour Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "6\" Whole Wheat Tortilla": [
-                "Soy",
-                "Vegan",
-                "Wheat"
-            ],
-            "Beans de Charro": [
+            "Capri Vegetables": [
                 "Vegan"
             ],
-            "Chipotle Marinated Portobello Mushrooms": [
+            "Grilled Italian Vegetables": [
                 "Vegan"
             ],
-            "Cilantro Squash Medley": [
+            "Lentil and Mushroom Ragu": [
                 "Vegan"
             ],
-            "Spanish Style Rice": [
+            "Soft Polenta": [
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -2796,17 +2797,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2819,6 +2819,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -2838,29 +2845,17 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
@@ -2870,17 +2865,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -2894,6 +2888,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Breadstick": [
                 "Milk",
                 "Eggs",
@@ -2912,33 +2913,28 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- Pizza Station --": {
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Breadstick": [
                 "Milk",
                 "Eggs",
@@ -2957,75 +2953,392 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         },
         "-- FAST Line --": {
-            "Brown Sugar Baked Beans": [
+            "Baked Sweet Potato Tater Tots": [
                 "Vegan"
             ],
-            "Kosher Dill Pickle Spear": [
+            "Fresh Carrots, Celery & Cucumber": [
                 "Vegan"
             ],
-            "Smoked Beef & Pork Rope Sausage": [
-                "Beef",
-                "Pork"
-            ],
-            "Southwestern Grilled Corn on the Cob": [
+            "Greek Turkey Burger": [],
+            "Hummus": [
                 "Vegan"
             ]
         }
     },
     "Dinner": {
-        "-- Soups --": {
-            "Assorted Dinner Rolls": [
-                "Wheat",
-                "Vegan",
+        "-- Baked Potato Bar --": {
+            "Baked Potato": [
+                "Vegan"
+            ],
+            "Baked Sweet Potato": [
+                "Vegan"
+            ],
+            "Crispy Chopped Bacon Filling": [
+                "Pork"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Shredded Cheddar Cheese": [
                 "Milk",
+                "Veggie"
+            ],
+            "Sliced Green Onion": [
+                "Vegan"
+            ],
+            "Sour Cream": [
+                "Milk",
+                "Veggie"
+            ],
+            "Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Beef Noodle Soup": [
+                "Beef",
                 "Eggs",
-                "Sesame"
+                "Wheat"
+            ],
+            "Greek Village Bean Soup": [
+                "Vegan"
             ],
             "Herbed Whipped Margarine": [
                 "Vegan",
                 "Soy",
                 "Vegan"
             ],
-            "New England Clam Chowder": [
-                "Fish",
-                "Milk",
-                "Pork",
-                "Shellfish",
-                "Soy"
-            ],
-            "Strawberry Whipped Butter": [
+            "Jalapeno Whipped Butter": [
                 "Milk",
                 "Veggie"
             ],
-            "Vegetable & Bean Chili": [
+            "Sweet Yeast Roll": [
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cherry Tomatoes": [
                 "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Fresh Spinach": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Edamame": [
+                "Soy",
+                "Vegan"
+            ],
+            "Fresh Red Grapes": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Lowfat Cottage Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Green Pepper": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Tofu": [
+                "Soy",
+                "Vegan"
+            ],
+            "Snickerdoodle Bar": [
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Yellow Cake w/ Chocolate Icing": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Bratwurst Sandwich": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Pork"
+            ],
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Sauteed Vegetable Blend": [
+                "Vegan"
+            ],
+            "Alfredo Sauce": [
+                "Milk",
+                "Tree_Nuts",
+                "Soy"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Penne Pasta": [
+                "Vegan",
+                "Wheat"
+            ],
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Fresh Basil": [
+                "Vegan"
+            ],
+            "Grated Parmesan Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sauteed Mushrooms": [
+                "Vegan"
+            ],
+            "Sauteed Onions": [
+                "Soy",
+                "Vegan"
+            ],
+            "Sauteed Red & Green Peppers": [
+                "Soy",
+                "Vegan"
+            ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
+            "Antipasto": [
+                "Beef",
+                "Milk",
+                "Pork"
+            ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
+                "Vegan"
+            ],
+            "Carrot Sticks": [
+                "Vegan"
+            ],
+            "Celery Sticks": [
+                "Vegan"
+            ],
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
+            ],
+            "Roasted Italian Vegetables": [
+                "Vegan"
+            ],
+            "Tahini": [
+                "Sesame",
+                "Vegan"
+            ],
+            "Teardrop Flat Bread": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Calabacitas con Elote": [
+                "Soy",
+                "Vegan"
+            ],
+            "Southwest-Style Quinoa": [
+                "Vegan"
+            ],
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Grilled Chicken Sandwich": [
+                "Wheat",
+                "Soy"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Oven Roasted Butternut Squash Wedges": [
+                "Vegan"
+            ],
+            "Oven Roasted Chicken": [],
+            "Ruby Wild Rice": [
+                "Vegan"
+            ]
+        },
+        "-- Soups --": {
+            "Beef Noodle Soup": [
+                "Beef",
+                "Eggs",
+                "Wheat"
+            ],
+            "Greek Village Bean Soup": [
+                "Vegan"
+            ],
+            "Herbed Whipped Margarine": [
+                "Vegan",
+                "Soy",
+                "Vegan"
+            ],
+            "Jalapeno Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sweet Yeast Roll": [
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
             ],
             "Whipped Butter": [
                 "Milk",
@@ -3052,20 +3365,24 @@
             "Sliced Red Onion": [
                 "Vegan"
             ],
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -3097,44 +3414,40 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "New York Cheesecake Bar": [
+            "Yellow Cake w/ Chocolate Icing": [
                 "Milk",
                 "Eggs",
                 "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
+                "Pork"
             ],
-            "Calabacitas con Elote": [
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
                 "Soy",
-                "Vegan"
-            ],
-            "Chipotle Cheese Spinach": [
-                "Milk"
-            ],
-            "Cilantro Lime Rice": [
-                "Vegan"
-            ],
-            "Cod Fish A La Veracruz": [
-                "Fish",
+                "Vegan",
                 "Wheat"
             ],
-            "Lime Wedges": [
+            "Sauteed Vegetable Blend": [
                 "Vegan"
             ],
             "Alfredo Sauce": [
@@ -3149,8 +3462,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -3177,12 +3492,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -3191,22 +3538,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -3218,20 +3562,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -3239,17 +3583,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -3263,6 +3606,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -3271,34 +3621,17 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
@@ -3324,20 +3657,24 @@
             "Sliced Red Onion": [
                 "Vegan"
             ],
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -3369,44 +3706,40 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "New York Cheesecake Bar": [
+            "Yellow Cake w/ Chocolate Icing": [
                 "Milk",
                 "Eggs",
                 "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
+                "Pork"
             ],
-            "Calabacitas con Elote": [
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
                 "Soy",
-                "Vegan"
-            ],
-            "Chipotle Cheese Spinach": [
-                "Milk"
-            ],
-            "Cilantro Lime Rice": [
-                "Vegan"
-            ],
-            "Cod Fish A La Veracruz": [
-                "Fish",
+                "Vegan",
                 "Wheat"
             ],
-            "Lime Wedges": [
+            "Sauteed Vegetable Blend": [
                 "Vegan"
             ],
             "Alfredo Sauce": [
@@ -3421,8 +3754,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -3449,12 +3784,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -3463,22 +3830,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -3490,20 +3854,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -3511,17 +3875,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -3535,6 +3898,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -3543,52 +3913,39 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- Salad Bar Standard Toppings --": {
-            "Black Beans": [
-                "Vegan"
-            ],
             "Blueberries": [
                 "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
             ],
             "Chopped Hard Boiled Egg": [
                 "Eggs",
                 "Veggie"
             ],
-            "Fresh Red Grapes": [
+            "Edamame": [
+                "Soy",
                 "Vegan"
             ],
-            "Honeydew": [
+            "Fresh Red Grapes": [
                 "Vegan"
             ],
             "Housemade Hummus": [
@@ -3620,44 +3977,40 @@
                 "Soy",
                 "Vegan"
             ],
-            "Tuna": [
-                "Fish",
-                "Soy"
-            ],
-            "Chai Blondie": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "New York Cheesecake Bar": [
+            "Yellow Cake w/ Chocolate Icing": [
                 "Milk",
                 "Eggs",
                 "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
+                "Pork"
             ],
-            "Calabacitas con Elote": [
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
                 "Soy",
-                "Vegan"
-            ],
-            "Chipotle Cheese Spinach": [
-                "Milk"
-            ],
-            "Cilantro Lime Rice": [
-                "Vegan"
-            ],
-            "Cod Fish A La Veracruz": [
-                "Fish",
+                "Vegan",
                 "Wheat"
             ],
-            "Lime Wedges": [
+            "Sauteed Vegetable Blend": [
                 "Vegan"
             ],
             "Alfredo Sauce": [
@@ -3672,8 +4025,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -3700,12 +4055,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -3714,22 +4101,19 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -3741,20 +4125,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -3762,17 +4146,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -3786,6 +4169,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -3794,72 +4184,55 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- Sweet Sensations --": {
-            "Chai Blondie": [
+            "Snickerdoodle Bar": [
                 "Wheat",
                 "Soy",
                 "Vegan"
             ],
-            "New York Cheesecake Bar": [
+            "Yellow Cake w/ Chocolate Icing": [
                 "Milk",
                 "Eggs",
                 "Wheat",
                 "Soy",
                 "Veggie"
             ],
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
+                "Pork"
             ],
-            "Calabacitas con Elote": [
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
                 "Soy",
-                "Vegan"
-            ],
-            "Chipotle Cheese Spinach": [
-                "Milk"
-            ],
-            "Cilantro Lime Rice": [
-                "Vegan"
-            ],
-            "Cod Fish A La Veracruz": [
-                "Fish",
+                "Vegan",
                 "Wheat"
             ],
-            "Lime Wedges": [
+            "Sauteed Vegetable Blend": [
                 "Vegan"
             ],
             "Alfredo Sauce": [
@@ -3874,8 +4247,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -3902,12 +4277,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -3916,26 +4323,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -3947,20 +4351,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -3968,17 +4372,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -3992,6 +4395,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -4000,60 +4410,43 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- GRILL SPECIAL --": {
-            "Philly Cheesesteak Sandwich": [
+            "Bratwurst Sandwich": [
                 "Milk",
-                "Eggs",
                 "Wheat",
                 "Soy",
-                "Beef"
+                "Pork"
             ],
-            "Calabacitas con Elote": [
+            "Sauerkraut": [
+                "Vegan"
+            ],
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
                 "Soy",
-                "Vegan"
-            ],
-            "Chipotle Cheese Spinach": [
-                "Milk"
-            ],
-            "Cilantro Lime Rice": [
-                "Vegan"
-            ],
-            "Cod Fish A La Veracruz": [
-                "Fish",
+                "Vegan",
                 "Wheat"
             ],
-            "Lime Wedges": [
+            "Sauteed Vegetable Blend": [
                 "Vegan"
             ],
             "Alfredo Sauce": [
@@ -4068,8 +4461,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -4096,12 +4491,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -4110,26 +4537,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -4141,20 +4565,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -4162,17 +4586,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -4186,6 +4609,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -4194,53 +4624,34 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- Comfort Line --": {
-            "Calabacitas con Elote": [
+            "Baked Chicken Parmesan": [
+                "Milk",
+                "Soy"
+            ],
+            "Baked Italian Seasoned Zucchini & Tomatoes": [
+                "Vegan"
+            ],
+            "Orzo Pilaf": [
                 "Soy",
-                "Vegan"
-            ],
-            "Chipotle Cheese Spinach": [
-                "Milk"
-            ],
-            "Cilantro Lime Rice": [
-                "Vegan"
-            ],
-            "Cod Fish A La Veracruz": [
-                "Fish",
+                "Vegan",
                 "Wheat"
             ],
-            "Lime Wedges": [
+            "Sauteed Vegetable Blend": [
                 "Vegan"
             ],
             "Alfredo Sauce": [
@@ -4255,8 +4666,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -4283,12 +4696,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -4297,26 +4742,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -4328,20 +4770,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -4349,17 +4791,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -4373,6 +4814,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -4381,34 +4829,17 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
@@ -4425,8 +4856,10 @@
                 "Vegan",
                 "Wheat"
             ],
-            "Steamed Shrimp": [
-                "Shellfish"
+            "Vegan Meatballs": [
+                "Wheat",
+                "Soy",
+                "Vegan"
             ],
             "Breadstick": [
                 "Milk",
@@ -4453,12 +4886,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -4467,26 +4932,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -4498,20 +4960,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -4519,17 +4981,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -4543,6 +5004,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Cheese Pizza": [
                 "Milk",
                 "Eggs",
@@ -4551,34 +5019,17 @@
                 "Wheat",
                 "Sesame"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
@@ -4608,12 +5059,44 @@
                 "Soy",
                 "Vegan"
             ],
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
             "Antipasto": [
                 "Beef",
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -4622,26 +5105,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -4653,20 +5133,20 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Southwest-Style Quinoa": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
-                "Vegan"
-            ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -4674,17 +5154,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -4695,6 +5174,171 @@
             ],
             "Swiss Cheese Slices": [
                 "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Oven Roasted Butternut Squash Wedges": [
+                "Vegan"
+            ],
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Ruby Wild Rice": [
+                "Vegan"
+            ]
+        },
+        "-- TexMex Favorites --": {
+            "Chile Con Queso": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Chipotle Marinated Portobello Slices": [
+                "Vegan"
+            ],
+            "Diced Tomato": [
+                "Vegan"
+            ],
+            "Pico de Gallo": [
+                "Vegan"
+            ],
+            "Refried Beans": [
+                "Vegan"
+            ],
+            "Sliced Jalapeno Pepper": [
+                "Vegan"
+            ],
+            "Tortilla Chips": [
+                "Vegan"
+            ],
+            "Antipasto": [
+                "Beef",
+                "Milk",
+                "Pork"
+            ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
+                "Vegan"
+            ],
+            "Carrot Sticks": [
+                "Vegan"
+            ],
+            "Celery Sticks": [
+                "Vegan"
+            ],
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
+            ],
+            "Roasted Italian Vegetables": [
+                "Vegan"
+            ],
+            "Tahini": [
+                "Sesame",
+                "Vegan"
+            ],
+            "Teardrop Flat Bread": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Calabacitas con Elote": [
+                "Soy",
+                "Vegan"
+            ],
+            "Southwest-Style Quinoa": [
+                "Vegan"
+            ],
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Grilled Chicken Sandwich": [
+                "Wheat",
+                "Soy"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
                 "Soy",
                 "Veggie"
             ],
@@ -4709,34 +5353,17 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
@@ -4746,7 +5373,14 @@
                 "Milk",
                 "Pork"
             ],
+            "Black Bean Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
             "Blistered Tomatoes": [
+                "Vegan"
+            ],
+            "Caponata": [
                 "Vegan"
             ],
             "Carrot Sticks": [
@@ -4755,26 +5389,23 @@
             "Celery Sticks": [
                 "Vegan"
             ],
-            "Dried Pears": [
+            "Dried Apricots": [
+                "Vegan"
+            ],
+            "Greek Olives w/ Feta Cheese": [
+                "Milk",
                 "Veggie"
             ],
             "Housemade Hummus": [
                 "Vegan",
                 "Sesame"
             ],
-            "Olive Peppers and Artichokes": [
-                "Vegan"
+            "Mediterranean Edamame Salad": [
+                "Milk",
+                "Soy"
             ],
             "Roasted Italian Vegetables": [
                 "Vegan"
-            ],
-            "Roasted Red Pepper Hummus": [
-                "Vegan",
-                "Sesame"
-            ],
-            "Tabouli Salad": [
-                "Vegan",
-                "Wheat"
             ],
             "Tahini": [
                 "Sesame",
@@ -4786,20 +5417,26 @@
                 "Soy",
                 "Veggie"
             ],
-            "Tomato, Cucumber, Feta, Mint Salad": [
-                "Milk"
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
             ],
-            "Basmati Rice": [
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Pico de Gallo": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
+            "Refried Beans": [
                 "Vegan"
             ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Southwest-Style Quinoa": [
+                "Vegan"
+            ],
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -4807,17 +5444,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -4830,6 +5466,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -4849,49 +5492,41 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- Vegan Line --": {
-            "Basmati Rice": [
+            "6\" Flour Tortilla": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Calabacitas con Elote": [
+                "Soy",
                 "Vegan"
             ],
-            "Curried Lentil Tempeh w/ Chickpeas": [
+            "Pico de Gallo": [
                 "Vegan"
             ],
-            "Masala Roasted Cauliflower": [
+            "Refried Beans": [
                 "Vegan"
             ],
-            "Vegetable Samosa": [
-                "Wheat",
+            "Southwest-Style Quinoa": [
+                "Vegan"
+            ],
+            "Vegan \"Chicken\" Fajita": [
+                "Soy",
                 "Vegan"
             ],
             "American Cheese Slices": [
@@ -4899,17 +5534,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -4922,6 +5556,13 @@
                 "Milk",
                 "Soy",
                 "Veggie"
+            ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
             ],
             "Breadstick": [
                 "Milk",
@@ -4941,34 +5582,17 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
@@ -4978,17 +5602,16 @@
                 "Soy",
                 "Veggie"
             ],
-            "Black Bean Quinoa Veggie Patty": [
+            "California Veggie Patty": [
                 "Soy",
                 "Vegan"
+            ],
+            "French Fries": [
+                "Soy",
+                "Veggie"
             ],
             "Fresh Tomato Slices": [
                 "Vegan"
-            ],
-            "Fried Sidewinder Potatoes": [
-                "Wheat",
-                "Soy",
-                "Veggie"
             ],
             "Grilled Chicken Sandwich": [
                 "Wheat",
@@ -5002,6 +5625,13 @@
                 "Soy",
                 "Veggie"
             ],
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Breadstick": [
                 "Milk",
                 "Eggs",
@@ -5020,38 +5650,28 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- Pizza Station --": {
+            "Alfredo Pizza": [
+                "Milk",
+                "Eggs",
+                "Tree_Nuts",
+                "Soy",
+                "Wheat"
+            ],
             "Breadstick": [
                 "Milk",
                 "Eggs",
@@ -5070,54 +5690,29 @@
             "Marinara Sauce": [
                 "Vegan"
             ],
-            "Pepperoni Pizza": [
-                "Milk",
-                "Eggs",
-                "Soy",
-                "Beef",
-                "Wheat",
-                "Pork",
-                "Sesame"
-            ],
             "Vegan \"Cheese\" Pizza": [
                 "Tree_Nuts"
             ],
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         },
         "-- FAST Line --": {
-            "Ginger Honey Vinaigrette": [
-                "Veggie"
-            ],
-            "Herbed Cabbage Salad": [
-                "Veggie"
-            ],
-            "Herbed Chickpeas": [
+            "Oven Roasted Butternut Squash Wedges": [
                 "Vegan"
             ],
-            "Honey Ginger Roasted Brussels Sprouts": [
-                "Veggie"
-            ],
-            "Mirin Glazed Portobello Mushrooms": [
+            "Oven Roasted Chicken": [],
+            "Roasted Italian Broccoli": [
                 "Vegan"
             ],
-            "Ruby Wild Rice Pilaf": [
+            "Ruby Wild Rice": [
                 "Vegan"
             ]
         }
