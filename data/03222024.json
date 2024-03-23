@@ -1,0 +1,285 @@
+{
+    "Breakfast": {
+        "-- Breakfast to Order --": [
+            "Diced Ham",
+            "Diced Tomato",
+            "Egg & Cheese Omelet",
+            "Egg Whites",
+            "Fresh Spinach",
+            "Fried Egg",
+            "Plant Forward  Scrambled \"Eggs\"",
+            "Sauteed Mushrooms",
+            "Sauteed Peppers & Onions",
+            "Scrambled Eggs",
+            "Shredded Cheddar Cheese"
+        ],
+        "-- Breakfast Bakery --": [
+            "Banana Bread",
+            "Vegan Blueberry Coffee Cake"
+        ],
+        "-- Breakfast Offerings --": [
+            "Bacon Apple Smoked",
+            "Beans de Charro",
+            "Hash Brown Patty",
+            "Housemade Buttermilk Pancakes",
+            "Pancake Syrup",
+            "Roasted Italian Vegetables",
+            "Scrambled Eggs",
+            "Southern Buttermilk Biscuit",
+            "Vegetarian Breakfast Patty"
+        ],
+        "-- Fresh Fruit --": [
+            "Banana",
+            "Fresh Orange",
+            "Granny Smith Apple"
+        ],
+        "-- Soups --": [
+            "Coconut Sticky Rice",
+            "Cranberry, Orange  Porridge",
+            "Oatmeal"
+        ],
+        "-- Salad Bar Standard Toppings --": [
+            "Blueberries",
+            "Cantaloupe",
+            "Fresh Red Grapes",
+            "Grapefruit Halves",
+            "Honeydew",
+            "Plain Greek Yogurt",
+            "Vanilla Yogurt"
+        ],
+        "-- FAST Line --": [
+            "Bacon Slices",
+            "Breakfast Topping Bar",
+            "Maple Syrup",
+            "Overnight Oats",
+            "Powdered Sugar",
+            "Roasted Maple Sweet Potatoes",
+            "S'mores French Toast",
+            "Seasonal Fresh Fruit"
+        ]
+    },
+    "Lunch": {
+        "-- Baked Potato Bar --": [
+            "Baked Potato",
+            "Baked Sweet Potato",
+            "Crispy Chopped Bacon Filling",
+            "Roasted Italian Broccoli",
+            "Shredded Cheddar Cheese",
+            "Sliced Green Onion",
+            "Sour Cream",
+            "Whipped Butter"
+        ],
+        "-- Soups --": [
+            "Assorted Dinner Rolls",
+            "Herbed Whipped Margarine",
+            "New England Clam Chowder",
+            "Strawberry Whipped Butter",
+            "Vegetable & Bean Chili",
+            "Whipped Butter"
+        ],
+        "-- Salad Bar Standard Vegetables --": [
+            "Cherry Tomatoes",
+            "Chopped Romaine Lettuce",
+            "Cucumber Slices",
+            "Fresh Spinach",
+            "Raw Broccoli Florets",
+            "Shredded Carrots",
+            "Sliced Red Onion"
+        ],
+        "-- Salad Bar Standard Toppings --": [
+            "Black Beans",
+            "Blueberries",
+            "Chopped Hard Boiled Egg",
+            "Fresh Red Grapes",
+            "Honeydew",
+            "Housemade Hummus",
+            "Lowfat Cottage Cheese",
+            "Mandarin Oranges",
+            "Plain Greek Yogurt",
+            "Shredded Cheddar Cheese",
+            "Sliced Green Pepper",
+            "Sliced Ripe Olives",
+            "Tofu",
+            "Tuna"
+        ],
+        "-- Sweet Sensations --": [
+            "Chai Blondie",
+            "Chocolate Chip Cookie",
+            "Oatmeal Raisin Cookies",
+            "Rainbow Cookies",
+            "Sugar Cookie Bar"
+        ],
+        "-- GRILL SPECIAL --": [
+            "Philly Cheesesteak Sandwich"
+        ],
+        "-- Comfort Line --": [
+            "Fresh Collard Greens with Bacon",
+            "Fried Breaded Catfish",
+            "Hushpuppies",
+            "Southern Beans and Rice",
+            "Tartar Sauce"
+        ],
+        "-- TexMex Favorites --": [
+            "Avocado Tomatillo Salsa",
+            "Chile Con Queso",
+            "Diced Tomato",
+            "Sliced Jalapeno Pepper",
+            "Southwest Black Beans",
+            "Tortilla Chips",
+            "Turkey Taco Filling"
+        ],
+        "-- Mezze Bar --": [
+            "Antipasto",
+            "Blistered Tomatoes",
+            "Carrot Sticks",
+            "Celery Sticks",
+            "Dried Pears",
+            "Housemade Hummus",
+            "Olive Peppers and Artichokes",
+            "Roasted Italian Vegetables",
+            "Roasted Red Pepper Hummus",
+            "Tabouli Salad",
+            "Tahini",
+            "Teardrop Flat Bread",
+            "Tomato, Cucumber, Feta, Mint Salad"
+        ],
+        "-- Vegan Line --": [
+            "6\" Flour Tortilla",
+            "6\" Whole Wheat Tortilla",
+            "Beans de Charro",
+            "Chipotle Marinated Portobello Mushrooms",
+            "Cilantro Squash Medley",
+            "Spanish Style Rice"
+        ],
+        "-- The Texas Grill --": [
+            "American Cheese Slices",
+            "Black Bean Quinoa Veggie Patty",
+            "Fresh Tomato Slices",
+            "Fried Sidewinder Potatoes",
+            "Grilled Chicken Sandwich",
+            "Shredded Romaine",
+            "Swiss Cheese Slices"
+        ],
+        "-- Pizza Station --": [
+            "Breadstick",
+            "Cheese Pizza",
+            "Marinara Sauce",
+            "Pepperoni Pizza",
+            "Vegan \"Cheese\" Pizza"
+        ],
+        "-- FAST Line --": [
+            "Brown Sugar Baked Beans",
+            "Kosher Dill Pickle Spear",
+            "Smoked Beef & Pork Rope Sausage",
+            "Southwestern Grilled Corn on the Cob"
+        ]
+    },
+    "Dinner": {
+        "-- Soups --": [
+            "Assorted Dinner Rolls",
+            "Herbed Whipped Margarine",
+            "New England Clam Chowder",
+            "Strawberry Whipped Butter",
+            "Vegetable & Bean Chili",
+            "Whipped Butter"
+        ],
+        "-- Salad Bar Standard Vegetables --": [
+            "Cherry Tomatoes",
+            "Chopped Romaine Lettuce",
+            "Cucumber Slices",
+            "Fresh Spinach",
+            "Raw Broccoli Florets",
+            "Shredded Carrots",
+            "Sliced Red Onion"
+        ],
+        "-- Salad Bar Standard Toppings --": [
+            "Black Beans",
+            "Blueberries",
+            "Chopped Hard Boiled Egg",
+            "Fresh Red Grapes",
+            "Honeydew",
+            "Housemade Hummus",
+            "Lowfat Cottage Cheese",
+            "Mandarin Oranges",
+            "Plain Greek Yogurt",
+            "Shredded Cheddar Cheese",
+            "Sliced Green Pepper",
+            "Sliced Ripe Olives",
+            "Tofu",
+            "Tuna"
+        ],
+        "-- Sweet Sensations --": [
+            "Chai Blondie",
+            "New York Cheesecake Bar"
+        ],
+        "-- GRILL SPECIAL --": [
+            "Philly Cheesesteak Sandwich"
+        ],
+        "-- Comfort Line --": [
+            "Calabacitas con Elote",
+            "Chipotle Cheese Spinach",
+            "Cilantro Lime Rice",
+            "Cod Fish A La Veracruz",
+            "Lime Wedges"
+        ],
+        "-- Pasta Bar --": [
+            "Alfredo Sauce",
+            "Marinara Sauce",
+            "Penne Pasta",
+            "Steamed Shrimp"
+        ],
+        "-- Pasta Bar: Veggie Mix-in's --": [
+            "Breadstick",
+            "Fresh Basil",
+            "Grated Parmesan Cheese",
+            "Sauteed Mushrooms",
+            "Sauteed Onions",
+            "Sauteed Red & Green Peppers"
+        ],
+        "-- Mezze Bar --": [
+            "Antipasto",
+            "Blistered Tomatoes",
+            "Carrot Sticks",
+            "Celery Sticks",
+            "Dried Pears",
+            "Housemade Hummus",
+            "Olive Peppers and Artichokes",
+            "Roasted Italian Vegetables",
+            "Roasted Red Pepper Hummus",
+            "Tabouli Salad",
+            "Tahini",
+            "Teardrop Flat Bread",
+            "Tomato, Cucumber, Feta, Mint Salad"
+        ],
+        "-- Vegan Line --": [
+            "Basmati Rice",
+            "Curried Lentil Tempeh w/ Chickpeas",
+            "Masala Roasted Cauliflower",
+            "Vegetable Samosa"
+        ],
+        "-- The Texas Grill --": [
+            "American Cheese Slices",
+            "Black Bean Quinoa Veggie Patty",
+            "Fresh Tomato Slices",
+            "Fried Sidewinder Potatoes",
+            "Grilled Chicken Sandwich",
+            "Shredded Romaine",
+            "Swiss Cheese Slices"
+        ],
+        "-- Pizza Station --": [
+            "Breadstick",
+            "Cheese Pizza",
+            "Marinara Sauce",
+            "Pepperoni Pizza",
+            "Vegan \"Cheese\" Pizza"
+        ],
+        "-- FAST Line --": [
+            "Ginger Honey Vinaigrette",
+            "Herbed Cabbage Salad",
+            "Herbed Chickpeas",
+            "Honey Ginger Roasted Brussels Sprouts",
+            "Mirin Glazed Portobello Mushrooms",
+            "Ruby Wild Rice Pilaf"
+        ]
+    }
+}
