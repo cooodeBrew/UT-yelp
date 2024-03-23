@@ -1,0 +1,2943 @@
+{
+    "Breakfast": {
+        "-- Breakfast Bakery --": {
+            "Chocolate Chip Zucchini Bread": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Raspberry Coffee Cake": [
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Pancake Syrup": [
+                "Vegan"
+            ],
+            "Peppered Cream Gravy": [
+                "Milk",
+                "Wheat",
+                "Veggie"
+            ],
+            "Roasted Italian Vegetables": [
+                "Vegan"
+            ],
+            "Scrambled Eggs": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Southern Buttermilk Biscuit": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Southwest Black Beans": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Turkey Sausage Patty": [],
+            "Vegetarian Breakfast Patty": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Banana": [
+                "Vegan"
+            ],
+            "Fresh Orange": [
+                "Vegan"
+            ],
+            "Granny Smith Apple": [
+                "Vegan"
+            ],
+            "Oatmeal": [
+                "Vegan",
+                "Wheat"
+            ],
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Fresh Cubed Pineapple": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Maple Syrup": [
+                "Vegan"
+            ],
+            "Overnight Oats": [
+                "Vegan"
+            ],
+            "Panckes": [
+                "Vegan"
+            ],
+            "Powdered Sugar": [
+                "Vegan"
+            ],
+            "Seasonal Fresh Fruit": [
+                "Vegan"
+            ],
+            "Shredded Hash Browns": [
+                "Vegan"
+            ],
+            "Strawberries & Blueberries": [
+                "Vegan"
+            ]
+        },
+        "-- Breakfast Offerings --": {
+            "Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Pancake Syrup": [
+                "Vegan"
+            ],
+            "Peppered Cream Gravy": [
+                "Milk",
+                "Wheat",
+                "Veggie"
+            ],
+            "Roasted Italian Vegetables": [
+                "Vegan"
+            ],
+            "Scrambled Eggs": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Southern Buttermilk Biscuit": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Southwest Black Beans": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Turkey Sausage Patty": [],
+            "Vegetarian Breakfast Patty": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Banana": [
+                "Vegan"
+            ],
+            "Fresh Orange": [
+                "Vegan"
+            ],
+            "Granny Smith Apple": [
+                "Vegan"
+            ],
+            "Oatmeal": [
+                "Vegan",
+                "Wheat"
+            ],
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Fresh Cubed Pineapple": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Maple Syrup": [
+                "Vegan"
+            ],
+            "Overnight Oats": [
+                "Vegan"
+            ],
+            "Panckes": [
+                "Vegan"
+            ],
+            "Powdered Sugar": [
+                "Vegan"
+            ],
+            "Seasonal Fresh Fruit": [
+                "Vegan"
+            ],
+            "Shredded Hash Browns": [
+                "Vegan"
+            ],
+            "Strawberries & Blueberries": [
+                "Vegan"
+            ]
+        },
+        "-- Fresh Fruit --": {
+            "Banana": [
+                "Vegan"
+            ],
+            "Fresh Orange": [
+                "Vegan"
+            ],
+            "Granny Smith Apple": [
+                "Vegan"
+            ],
+            "Oatmeal": [
+                "Vegan",
+                "Wheat"
+            ],
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Fresh Cubed Pineapple": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Maple Syrup": [
+                "Vegan"
+            ],
+            "Overnight Oats": [
+                "Vegan"
+            ],
+            "Panckes": [
+                "Vegan"
+            ],
+            "Powdered Sugar": [
+                "Vegan"
+            ],
+            "Seasonal Fresh Fruit": [
+                "Vegan"
+            ],
+            "Shredded Hash Browns": [
+                "Vegan"
+            ],
+            "Strawberries & Blueberries": [
+                "Vegan"
+            ],
+            "Turkey Sausage Patty": []
+        },
+        "-- Soups --": {
+            "Oatmeal": [
+                "Vegan",
+                "Wheat"
+            ],
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Fresh Cubed Pineapple": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Maple Syrup": [
+                "Vegan"
+            ],
+            "Overnight Oats": [
+                "Vegan"
+            ],
+            "Panckes": [
+                "Vegan"
+            ],
+            "Powdered Sugar": [
+                "Vegan"
+            ],
+            "Seasonal Fresh Fruit": [
+                "Vegan"
+            ],
+            "Shredded Hash Browns": [
+                "Vegan"
+            ],
+            "Strawberries & Blueberries": [
+                "Vegan"
+            ],
+            "Turkey Sausage Patty": []
+        },
+        "-- Salad Bar Standard Toppings --": {
+            "Blueberries": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Fresh Cubed Pineapple": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Mandarin Oranges": [
+                "Vegan"
+            ],
+            "Plain Greek Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Maple Syrup": [
+                "Vegan"
+            ],
+            "Overnight Oats": [
+                "Vegan"
+            ],
+            "Panckes": [
+                "Vegan"
+            ],
+            "Powdered Sugar": [
+                "Vegan"
+            ],
+            "Seasonal Fresh Fruit": [
+                "Vegan"
+            ],
+            "Shredded Hash Browns": [
+                "Vegan"
+            ],
+            "Strawberries & Blueberries": [
+                "Vegan"
+            ],
+            "Turkey Sausage Patty": []
+        },
+        "-- FAST Line --": {
+            "Breakfast Topping Bar": [
+                "Vegan"
+            ],
+            "Maple Syrup": [
+                "Vegan"
+            ],
+            "Overnight Oats": [
+                "Vegan"
+            ],
+            "Panckes": [
+                "Vegan"
+            ],
+            "Powdered Sugar": [
+                "Vegan"
+            ],
+            "Seasonal Fresh Fruit": [
+                "Vegan"
+            ],
+            "Shredded Hash Browns": [
+                "Vegan"
+            ],
+            "Strawberries & Blueberries": [
+                "Vegan"
+            ],
+            "Turkey Sausage Patty": []
+        }
+    },
+    "Lunch": {
+        "-- Baked Potato Bar --": {
+            "Baked Potato": [
+                "Vegan"
+            ],
+            "Baked Sweet Potato": [
+                "Vegan"
+            ],
+            "Beef Chili w/out Beans": [
+                "Halal",
+                "Beef"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Shredded Cheddar Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Green Onion": [
+                "Vegan"
+            ],
+            "Sour Cream": [
+                "Milk",
+                "Veggie"
+            ],
+            "Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Cornbread": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Herbed Whipped Margarine": [
+                "Vegan",
+                "Soy",
+                "Vegan"
+            ],
+            "Italian Wedding Soup": [
+                "Milk",
+                "Wheat",
+                "Eggs",
+                "Beef"
+            ],
+            "Strawberry Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vegetable Wild Rice Soup": [
+                "Milk",
+                "Soy"
+            ],
+            "Acadian Lettuce Blend": [
+                "Vegan"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Sugar Cookies": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cilantro Squash Medley": [
+                "Vegan"
+            ],
+            "Green Beans w/ Tomatoes & Mushrooms": [
+                "Soy",
+                "Vegan"
+            ],
+            "Roasted Baby Carrots": [
+                "Vegan"
+            ],
+            "Rotisserie Chicken": [
+                "Soy"
+            ],
+            "Southwestern Green Beans": [
+                "Vegan"
+            ],
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Soups --": {
+            "Cornbread": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Herbed Whipped Margarine": [
+                "Vegan",
+                "Soy",
+                "Vegan"
+            ],
+            "Italian Wedding Soup": [
+                "Milk",
+                "Wheat",
+                "Eggs",
+                "Beef"
+            ],
+            "Strawberry Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vegetable Wild Rice Soup": [
+                "Milk",
+                "Soy"
+            ],
+            "Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Acadian Lettuce Blend": [
+                "Vegan"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Sugar Cookies": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cilantro Squash Medley": [
+                "Vegan"
+            ],
+            "Green Beans w/ Tomatoes & Mushrooms": [
+                "Soy",
+                "Vegan"
+            ],
+            "Roasted Baby Carrots": [
+                "Vegan"
+            ],
+            "Rotisserie Chicken": [
+                "Soy"
+            ],
+            "Southwestern Green Beans": [
+                "Vegan"
+            ],
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Salad Bar Standard Vegetables --": {
+            "Acadian Lettuce Blend": [
+                "Vegan"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Sugar Cookies": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cilantro Squash Medley": [
+                "Vegan"
+            ],
+            "Green Beans w/ Tomatoes & Mushrooms": [
+                "Soy",
+                "Vegan"
+            ],
+            "Roasted Baby Carrots": [
+                "Vegan"
+            ],
+            "Rotisserie Chicken": [
+                "Soy"
+            ],
+            "Southwestern Green Beans": [
+                "Vegan"
+            ],
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Salad Bar Standard Toppings --": {
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Sugar Cookies": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cilantro Squash Medley": [
+                "Vegan"
+            ],
+            "Green Beans w/ Tomatoes & Mushrooms": [
+                "Soy",
+                "Vegan"
+            ],
+            "Roasted Baby Carrots": [
+                "Vegan"
+            ],
+            "Rotisserie Chicken": [
+                "Soy"
+            ],
+            "Southwestern Green Beans": [
+                "Vegan"
+            ],
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Sweet Sensations --": {
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Sugar Cookies": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cilantro Squash Medley": [
+                "Vegan"
+            ],
+            "Green Beans w/ Tomatoes & Mushrooms": [
+                "Soy",
+                "Vegan"
+            ],
+            "Roasted Baby Carrots": [
+                "Vegan"
+            ],
+            "Rotisserie Chicken": [
+                "Soy"
+            ],
+            "Southwestern Green Beans": [
+                "Vegan"
+            ],
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Comfort Line --": {
+            "Cilantro Squash Medley": [
+                "Vegan"
+            ],
+            "Green Beans w/ Tomatoes & Mushrooms": [
+                "Soy",
+                "Vegan"
+            ],
+            "Roasted Baby Carrots": [
+                "Vegan"
+            ],
+            "Rotisserie Chicken": [
+                "Soy"
+            ],
+            "Southwestern Green Beans": [
+                "Vegan"
+            ],
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Vegan Line --": {
+            "Athenian Rice": [
+                "Vegan"
+            ],
+            "Falafel Bites": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Mediterranean Roasted Veggies": [
+                "Vegan"
+            ],
+            "Roasted Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Vegan Tzatziki Sauce": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- The Texas Grill --": {
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ]
+        },
+        "-- Pizza Station --": {
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ]
+        },
+        "-- FAST Line --": {
+            "Roasted Cauliflower": [
+                "Vegan"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Steamed Red Quinoa": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ]
+        }
+    },
+    "Dinner": {
+        "-- Baked Potato Bar --": {
+            "Baked Potato": [
+                "Vegan"
+            ],
+            "Baked Sweet Potato": [
+                "Vegan"
+            ],
+            "Beef Chili w/out Beans": [
+                "Halal",
+                "Beef"
+            ],
+            "Roasted Italian Broccoli": [
+                "Vegan"
+            ],
+            "Shredded Cheddar Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Green Onion": [
+                "Vegan"
+            ],
+            "Sour Cream": [
+                "Milk",
+                "Veggie"
+            ],
+            "Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Cornbread": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Herbed Whipped Margarine": [
+                "Vegan",
+                "Soy",
+                "Vegan"
+            ],
+            "Italian Wedding Soup": [
+                "Milk",
+                "Wheat",
+                "Eggs",
+                "Beef"
+            ],
+            "Strawberry Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vegetable Wild Rice Soup": [
+                "Milk",
+                "Soy"
+            ],
+            "Acadian Lettuce Blend": [
+                "Vegan"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Red Velvet Cake w/ Cream Cheese Icing": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Cauliflower and Raisin Curry": [
+                "Vegan"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Indian Spiced Sweet Potatoes": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Naan": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Chana Masala": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Vegan"
+            ],
+            "Vegetable Samosa": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Soups --": {
+            "Cornbread": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Herbed Whipped Margarine": [
+                "Vegan",
+                "Soy",
+                "Vegan"
+            ],
+            "Italian Wedding Soup": [
+                "Milk",
+                "Wheat",
+                "Eggs",
+                "Beef"
+            ],
+            "Strawberry Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Vegetable Wild Rice Soup": [
+                "Milk",
+                "Soy"
+            ],
+            "Whipped Butter": [
+                "Milk",
+                "Veggie"
+            ],
+            "Acadian Lettuce Blend": [
+                "Vegan"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Red Velvet Cake w/ Cream Cheese Icing": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Cauliflower and Raisin Curry": [
+                "Vegan"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Indian Spiced Sweet Potatoes": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Naan": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Chana Masala": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Vegan"
+            ],
+            "Vegetable Samosa": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Salad Bar Standard Vegetables --": {
+            "Acadian Lettuce Blend": [
+                "Vegan"
+            ],
+            "Cherry Tomatoes": [
+                "Vegan"
+            ],
+            "Chopped Romaine Lettuce": [
+                "Vegan"
+            ],
+            "Cucumber Slices": [
+                "Vegan"
+            ],
+            "Raw Broccoli Florets": [
+                "Vegan"
+            ],
+            "Shredded Carrots": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Red Velvet Cake w/ Cream Cheese Icing": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Cauliflower and Raisin Curry": [
+                "Vegan"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Indian Spiced Sweet Potatoes": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Naan": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Chana Masala": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Vegan"
+            ],
+            "Vegetable Samosa": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Salad Bar Standard Toppings --": {
+            "Cantaloupe": [
+                "Vegan"
+            ],
+            "Chicken Breast Strips": [
+                "Soy"
+            ],
+            "Chilled Brown Rice": [
+                "Vegan"
+            ],
+            "Chopped Hard Boiled Egg": [
+                "Eggs",
+                "Veggie"
+            ],
+            "Coconut Milk Yogurt": [
+                "Tree_Nuts",
+                "Vegan"
+            ],
+            "Garbanzo Beans": [
+                "Vegan"
+            ],
+            "Honeydew": [
+                "Vegan"
+            ],
+            "Housemade Hummus": [
+                "Vegan",
+                "Sesame"
+            ],
+            "Mango": [
+                "Vegan"
+            ],
+            "Roasted Red Pepper Strips": [
+                "Vegan"
+            ],
+            "Shredded Mozzarella Cheese": [
+                "Milk",
+                "Veggie"
+            ],
+            "Sliced Canned Pears": [
+                "Vegan"
+            ],
+            "Sliced Red Onion": [
+                "Vegan"
+            ],
+            "Sliced Ripe Olives": [
+                "Vegan"
+            ],
+            "Vanilla Yogurt": [
+                "Milk",
+                "Veggie"
+            ],
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Red Velvet Cake w/ Cream Cheese Icing": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Cauliflower and Raisin Curry": [
+                "Vegan"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Indian Spiced Sweet Potatoes": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Naan": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Chana Masala": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Vegan"
+            ],
+            "Vegetable Samosa": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Sweet Sensations --": {
+            "Blackberry & Peach Crisp": [
+                "Soy",
+                "Vegan",
+                "Wheat"
+            ],
+            "Red Velvet Cake w/ Cream Cheese Icing": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Cauliflower and Raisin Curry": [
+                "Vegan"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Indian Spiced Sweet Potatoes": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Naan": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Chana Masala": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Vegan"
+            ],
+            "Vegetable Samosa": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Comfort Line --": {
+            "Cauliflower and Raisin Curry": [
+                "Vegan"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Indian Spiced Sweet Potatoes": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Soy",
+                "Vegan"
+            ],
+            "Naan": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat"
+            ],
+            "Vegan Chana Masala": [
+                "Tree_Nuts",
+                "Peanuts",
+                "Wheat",
+                "Vegan"
+            ],
+            "Vegetable Samosa": [
+                "Wheat",
+                "Vegan"
+            ],
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Vegan Line --": {
+            "Asian Spiced Noodles": [
+                "Wheat",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Baked Sesame Tofu": [
+                "Soy",
+                "Soy",
+                "Vegan",
+                "Sesame"
+            ],
+            "Roasted Ginger Bok Choy": [
+                "Vegan"
+            ],
+            "Sriracha Roasted Carrots": [
+                "Vegan"
+            ],
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- The Texas Grill --": {
+            "American Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "California Veggie Patty": [
+                "Soy",
+                "Vegan"
+            ],
+            "Cheeseburger": [
+                "Milk",
+                "Wheat",
+                "Soy",
+                "Halal",
+                "Beef"
+            ],
+            "Fresh Tomato Slices": [
+                "Vegan"
+            ],
+            "Shredded Romaine": [
+                "Vegan"
+            ],
+            "Sweet Potato Tater Tots": [
+                "Veggie"
+            ],
+            "Swiss Cheese Slices": [
+                "Milk",
+                "Soy",
+                "Veggie"
+            ],
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- Pizza Station --": {
+            "Breadstick": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Veggie"
+            ],
+            "Cheese Pizza": [
+                "Milk",
+                "Eggs",
+                "Soy",
+                "Veggie",
+                "Wheat",
+                "Sesame"
+            ],
+            "Marinara Sauce": [
+                "Vegan"
+            ],
+            "Sausage Supreme Pizza": [
+                "Milk",
+                "Eggs",
+                "Wheat",
+                "Soy",
+                "Pork",
+                "Sesame"
+            ],
+            "Vegan \"Cheese\" Pizza": [
+                "Tree_Nuts"
+            ],
+            "Chicken and Butternut Squash Curry": [],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        },
+        "-- FAST Line --": {
+            "Chicken and Butternut Squash Curry": [],
+            "Garlic Chili Sugar Snap Peas": [
+                "Vegan"
+            ],
+            "Garlic Roasted New Potatoes": [
+                "Vegan"
+            ],
+            "Roasted Curried Cauliflower": [
+                "Vegan"
+            ]
+        }
+    }
+}
