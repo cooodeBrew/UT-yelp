@@ -1,0 +1,4 @@
+npm i @propelauth/auth-proxy
+Make sure streamlit is the latest version 1.32.0 (or at least 1.27.0 for link_button to work)
+Run streamlit app.py first then run proxy.mjs
+Go to http://localhost:8502 (the proxy port is 8502 in proxy.mjs) instead of the http://localhost:8501 that the streamlit app.py automatically opens
