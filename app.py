@@ -1,9 +1,18 @@
 import streamlit as st
 
 st.header("Welcome to WingWing! ")
+# Disliked
 forbidden_list = set()
+
+# favorite food
+user_input_list = []
+
 # Use a set to store additional elements
-additional_elements = set()
+additional_elements = []
+
+# key number
+# key_number = 1
+
 
 dietary_Restriction = st.radio(
     "What's your Dietary Restrictions?",
@@ -24,20 +33,25 @@ def clear_form():
 
 with st.form("myForm"):
     if 'Other' in forbidden:
+        forbidden_list.remove('Other')
         self_forbidden = st.text_input(
             "Can't find what you want? Write below!",
             key="1"
         )
         if self_forbidden:
-            additional_elements.add(self_forbidden)
-            st.write("You have successfully added: ", self_forbidden)
-        col1, col2 = st.columns(2)
+            additional_elements = additional_elements + [str(self_forbidden)]
+            for item in additional_elements:
+                st.write(item)
+            # st.write("You have successfully added: ", self_forbidden)
+        col1, col2, col3 = st.columns(3)
         with col1:
             submit = st.form_submit_button(label="Submit")
-        with col2:
-            clear = st.form_submit_button(label="Clear", on_click=clear_form)
-
-        forbidden_list.remove('Other')
+        # with col2:
+        #     ad = st.form_submit_button(label="Add", on_click=add)
+        with col3:
+            delete = st.form_submit_button(label="Delete", on_click=clear_form)
+        if submit:
+            pass
 for item in additional_elements:
     forbidden_list.add(item)
 forbidden_string = " ".join(forbidden_list)
@@ -46,7 +60,6 @@ st.write("You already chosen: ", forbidden_string)
 
 
 title = st.text_area('Put your favorite food into the box! 👇 (use comma to separate)')
-user_input_list = []
 if title:
     # Split the text by lines and add each line to the user_input_list
     user_input_list.extend(title.split(','))
