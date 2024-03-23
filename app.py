@@ -65,9 +65,6 @@ with st.form("myForm"):
         )
         if self_forbidden:
             additional_elements = additional_elements + [str(self_forbidden)]
-            for item in additional_elements:
-                st.write(item)
-            # st.write("You have successfully added: ", self_forbidden)
         col1, col2 = st.columns(2)
         with col1:
             submit = st.form_submit_button(label="Submit")
@@ -82,7 +79,7 @@ st.write("You already chosen: ", forbidden_string)
 filtered_dishes = all_dishes.copy()
 for dish in all_dishes:
     for forbidden_item in forbidden_list:
-        if forbidden_item in dish:
+        if forbidden_item.lower() in dish.lower():
             filtered_dishes.remove(dish)
 all_dishes = filtered_dishes
 # for item in all_dishes:
