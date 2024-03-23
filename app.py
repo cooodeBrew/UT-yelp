@@ -112,9 +112,10 @@ if title:
         for dish_name in res_dishes:
             details = set()
             for meal, meal_data in data.items():
-                for bar, bar_data in meal_data.items():
-                    if dish_name in bar_data:
-                        details.add((meal, bar))
+                if meal != "date":
+                    for bar, bar_data in meal_data.items():
+                        if dish_name in bar_data:
+                            details.add((meal, bar))
             st.write("You can find " + ":rainbow[" + dish_name + "]" + " at: ")
             for item in details:
                 st.write(item)
