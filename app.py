@@ -12,7 +12,7 @@ dinner = data.get("Dinner", {})
 # Names of all dishes, will change according to user's choice
 all_dishes = []
 
-st.header("Welcome to WingWing! ")
+st.header("Welcome to WingWing! 🧚‍")
 # Disliked
 forbidden_list = set()
 
@@ -34,8 +34,14 @@ if dietary_Restriction != "None":
                 if dr_type in dietary_restrictions:
                     # Add the dish name to the set
                     all_dishes.append(dish_name)
-for item in all_dishes:
-    st.write(item)
+else:
+    for menu in (breakfast, lunch, dinner):
+        for item in menu.values():
+            for dish_name, dietary_restrictions in item.items():
+                # Add the dish name to the set
+                all_dishes.append(dish_name)
+# for item in all_dishes:
+#     st.write(item)
 
 forbidden = st.multiselect(
     "What you " + "***DON'T***" + " wanna have?",
@@ -71,6 +77,7 @@ for item in additional_elements:
     forbidden_list.add(item)
 forbidden_string = " ".join(forbidden_list)
 # Display the concatenated string
+
 st.write("You already chosen: ", forbidden_string)
 filtered_dishes = all_dishes.copy()
 for dish in all_dishes:
@@ -78,21 +85,37 @@ for dish in all_dishes:
         if forbidden_item in dish:
             filtered_dishes.remove(dish)
 all_dishes = filtered_dishes
-for item in all_dishes:
-    st.write(item)
+# for item in all_dishes:
+#     st.write(item)
 
 
-title = st.text_area('Put your favorite food into the box! 👇 (use comma to separate)')
+title = st.text_area('Put your ' + '***favorite***' + ' food into the box! 👇 (use comma to separate)')
 if title:
     # Split the text by lines and add each line to the user_input_list
     user_input_list.extend(title.split(','))
-st.write("User Input List:", user_input_list)
-res_dishes = []
-for dish in all_dishes:
-    for liked_dishes in user_input_list:
-        if liked_dishes in dish:
-            res_dishes.append(dish)
-for item in res_dishes:
-    st.write(item)
 
+    res_dishes = []
+    added_names = set()
+    for dish in all_dishes:
+        for liked_dishes in user_input_list:
+            if liked_dishes in dish and str(dish) not in added_names:
+                res_dishes.append(dish)
+                added_names.add(str(dish))
+    # for item in res_dishes:
+    #     st.write(item)
+    # Output result
+    if not res_dishes:
+        st.header(":rainbow[Oops! J2 doesn't have your favorite foods today]"+"😢")
+    else:
+        st.balloons()
+        st.header(":rainbow[We found them!]" + "🎊")
+        for dish_name in res_dishes:
+            details = set()
+            for meal, meal_data in data.items():
+                for bar, bar_data in meal_data.items():
+                    if dish_name in bar_data:
+                        details.add((meal, bar))
+            st.write("You can find " + ":rainbow[" + dish_name + "]" + " at: ")
+            for item in details:
+                st.write(item)
 
