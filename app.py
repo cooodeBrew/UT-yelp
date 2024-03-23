@@ -98,7 +98,7 @@ if title:
     added_names = set()
     for dish in all_dishes:
         for liked_dishes in user_input_list:
-            if liked_dishes in dish and str(dish) not in added_names:
+            if liked_dishes.lower() in dish.lower() and str(dish) not in added_names:
                 res_dishes.append(dish)
                 added_names.add(str(dish))
     # for item in res_dishes:
